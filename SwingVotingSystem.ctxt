@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=SwingVotingSystem
+comment1.params=
+comment1.target=SwingVotingSystem()
+comment10.params=e
+comment10.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=nn
+comment2.target=void\ backstory(int)
+comment3.params=
+comment3.target=void\ addactionlistener()
+comment4.params=
+comment4.target=void\ acceptuid()
+comment5.params=u
+comment5.target=void\ checkuid(int)
+comment6.params=vvv
+comment6.target=void\ votingtime(int)
+comment7.params=
+comment7.target=void\ CountNoOfVotes()
+comment8.params=
+comment8.target=void\ R()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=11
